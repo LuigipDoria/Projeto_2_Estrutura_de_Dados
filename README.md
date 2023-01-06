@@ -1,4 +1,6 @@
-# Projeto_2_Estrutura_de_Dados
+# Projeto_2_Estrutura_de_Dados 
+
+projeto para a disciplina de Estrutura de dados INE5408
 
 Objetivo
 
